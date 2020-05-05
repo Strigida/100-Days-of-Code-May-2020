@@ -83,3 +83,9 @@ let diffResult = difficultSpelling.match(diffRegex);
 
 console.log(difficultSpelling + ": " + diffResult);
 
+//to search for something at the beginning of a string use carrot (^) outside of a set (square brackets/[])
+let startRegex = /^Harry/;
+
+//to search for something at the end of a string use the dollar sign ($) in the same way
+let endRegex = /Harry$/;
+
