@@ -1,0 +1,2 @@
+README
+Today's hour of code was spent in freeCodeCamp.org on debugging and arrays!
