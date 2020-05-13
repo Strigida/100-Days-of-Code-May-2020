@@ -1,0 +1,72 @@
+# 100 Days of Code
+---
+![Orange Azalea Blossoms](https://github.com/Strigida/100-Days-of-Code-May-2020/blob/master/IMG_4044.jpeg?raw=true "Sherbert Colored Azaleas")
+---
+
+---
+## Day 1: Javascript Essentials
+*5/1/2020*
+
+---
+Started my 100 Days of Code by going through new modules in freeCodeCamp.org ’s JavaScript portion, as there’s a few new lessons on the site since I finished up the basics portion, there.
+
+---
+## Day 2: JavaScript, Continued
+*5/2/2020*
+
+---
+Today I brushed up on JavaScript `import` and `export` functions, as well as module script creation and promises. Thank you, freeCodeCamp.org !
+**Note:**
+Practice promises.
+---
+## Days 3 - 5: JavaScript, Continued
+*5/3/2020 - 5/5/2020*
+
+---
+Worked from freeCodeCamp.org, still going through the new material added since my previous run-though of the course, including starting learning regular expressions (regex).
+
+---
+## Day 6: JavaScript Regular Expressions
+*05/06/2020*
+
+---
+Worked entirely on freeCodeCamp.org finishing up regexs (JavaScript).
+
+---
+## Day 7: New Project Started
+*5/7/2020*
+
+---
+An idea based on thoughts I've had since the pandemic lockdown suddenly took form, so I started a new project in HTML5 and JavaScript as a prototype. Eventually this will need to be multi-platform (mobile, web, VR/AR/MR), and I may move the demo to Unity once I've worked through the prototype a bit.
+
+---
+## Day 8: More JavaScript
+*5/8/2020*
+
+---
+Today's hour of code was spent in freeCodeCamp.org on debugging and arrays!
+I realized I still need to brush up on some JavaScript functionality to get what I want out of my prototype, so back to the grind!
+---
+## Day 9: My First Markdown
+*5/11/2020*
+
+---
+Today is all about learning markdown, and this is my first markdown document.
+
+I primarily spent today's hour of code reading up on the subject courtesy of links recommended by the talented [Caleb Wells](https://calebwells.dev), creator of [A Swiftly Tilting Planet](https://github.com/calebrwells/A-Swiftly-Tilting-Planet), and creating a markdown sheet to guide my documentation for further projects.
+
+I also spent time on freeCodeCamp.org, brushing up on JavaScript array functionalities, such as `.splice`, and `.slice`.
+
+---
+## Day 10: Updates and Arrays
+*5/12/2020*
+
+---
+Since all my previous README's and updates were a) scattered over multiple documents, and b) in multiple files (including .txt files) I spent the first half of today's time updating this document with the information from previous days. I'm much happier with how my files look, now.
+
+With my remaining few minutes I got onto freeCodeCamp.org to delve into arrays again, and learned about the spread operator (`[...arr]`), in conjunciton with the `.push()` function.
+
+**Note:**
+Practice `while() {}` loops.
+
+---
