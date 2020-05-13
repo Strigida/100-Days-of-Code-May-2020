@@ -73,3 +73,10 @@ With my remaining few minutes I got onto freeCodeCamp.org to delve into arrays a
 Practice `while() {}` loops.
 
 ---
+## Day 11: Modifying Arrays, and Interview Prep
+*5/13/2020*
+
+---
+Spent the first part of my hour researching web dev interview questions, and then brainstorming programatic answers. Afterward, I went back to freeCodeCamp.org to finish out the hour playing with spread operators (`[...array]`) and `indexOf()`!
+
+---
