@@ -16,8 +16,10 @@ Started my 100 Days of Code by going through new modules in freeCodeCamp.org ’
 
 ---
 Today I brushed up on JavaScript `import` and `export` functions, as well as module script creation and promises. Thank you, freeCodeCamp.org !
+
 **Note:**
 Practice promises.
+
 ---
 ## Days 3 - 5: JavaScript, Continued
 *5/3/2020 - 5/5/2020*
@@ -46,6 +48,7 @@ An idea based on thoughts I've had since the pandemic lockdown suddenly took for
 ---
 Today's hour of code was spent in freeCodeCamp.org on debugging and arrays!
 I realized I still need to brush up on some JavaScript functionality to get what I want out of my prototype, so back to the grind!
+
 ---
 ## Day 9: My First Markdown
 *5/11/2020*
