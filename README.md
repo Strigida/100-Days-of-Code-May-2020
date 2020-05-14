@@ -77,6 +77,11 @@ Practice `while() {}` loops.
 *5/13/2020*
 
 ---
-Spent the first part of my hour researching web dev interview questions, and then brainstorming programatic answers. Afterward, I went back to freeCodeCamp.org to finish out the hour playing with spread operators (`[...array]`) and `indexOf()`!
+Spent the first part of my hour researching web dev interview questions, and then brainstorming programatic answers. Afterward, I went back to freeCodeCamp.org to finish out the hour playing with spread operators (`[...array]`) and `.indexOf()`!
 
 ---
+## Day 12: Objects
+*5/14/2020*
+
+---
+Worked with key - value pairs (`name: 'Hermione Granger'`) in objects, including iterating through keys in an object, or checking if an object has a property.
