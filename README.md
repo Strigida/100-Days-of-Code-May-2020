@@ -89,6 +89,7 @@ Worked with key - value pairs (`name: 'Hermione Granger'`) in objects, including
 ---
 ## Day 13: Web Dev Interview
 *5/15/2020*
+
 ![Overhead Image of Interview](https://raw.githubusercontent.com/Strigida/100-Days-of-Code-May-2020/master/undraw_interview_rmcf.png "Interview")
 ---
 Today I had a phone interview for a web developer position, which went fairly well. The job was slightly out of my comfort level, so I thought it would be a good learning experience. All-in-all I enjoyed it, and got some good adviece from the interviewer: 
@@ -97,4 +98,5 @@ It's advice I plan to take!
 
 **Note:**
 The above illustration was obviously pre-pandemic, so forgive the subjects for not wearing PPE or respecting the 6' rule. lol
+
 ---
