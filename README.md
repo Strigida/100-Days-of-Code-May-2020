@@ -100,3 +100,10 @@ It's advice I plan to take!
 The above illustration was obviously pre-pandemic, so forgive the subjects for not wearing PPE or respecting the 6' rule. lol
 
 ---
+## Day 14: Basic JavaScript Algorithms
+*5/17/2020*
+
+---
+Today's hour of code was spent on learning some basic algorithms; something my fomal degree didn't spend much time on. So far, I'm enjoying the challenge greatly, and can see it will make me a much more effective programmer!
+
+---
