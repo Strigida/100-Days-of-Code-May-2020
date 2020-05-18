@@ -107,3 +107,16 @@ The above illustration was obviously pre-pandemic, so forgive the subjects for n
 Today's hour of code was spent on learning some basic algorithms; something my fomal degree didn't spend much time on. So far, I'm enjoying the challenge greatly, and can see it will make me a much more effective programmer!
 
 ---
+## Day 15: Technical UX Interview
+*5/18/2020*
+
+---
+![Data Structures](https://raw.githubusercontent.com/Strigida/100-Days-of-Code-May-2020/master/undraw_software_engineer_lvl5.png "Software Engineer Designing Data Structure")
+
+---
+I spent a bit over 2 hours working on a design challenge as part of an interview for a Technical UX Design postion contracted to a game company. The job is all about HUDs, menus, and interfaces, and was a lot of fun to work on! 
+I got to create a data structure, as well as a function that delivers weapons combos based on their combined damage ratings. 
+
+I won't know how I did for a while, but it was a great experience, and my 100 Days of Code definitely gave me an edge I didn't have, before! Onward!
+
+---
