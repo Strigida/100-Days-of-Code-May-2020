@@ -120,3 +120,12 @@ I got to create a data structure, as well as a function that delivers weapons co
 I won't know how I did for a while, but it was a great experience, and my 100 Days of Code definitely gave me an edge I didn't have, before! Onward!
 
 ---
+## Day 16: Algorithm Practice
+*5/19/2020*
+
+---
+I'm back to my algorithm practice, today, and was presented some fun problems to solve by freeCodeCamp.org! Among other things, I got to put `string.length` to practice, as well as a type of for loop that itterates though arrays (`for (word in array) {}`)!
+
+I'm quite glad to have started this hundred days of code, as I feel like I'm progressing faster than I have before! It feels good to get back into the code, after a year+ hiatus!
+
+---
