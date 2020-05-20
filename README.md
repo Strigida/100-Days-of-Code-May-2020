@@ -136,4 +136,4 @@ I'm quite glad to have started this hundred days of code, as I feel like I'm pro
 Today I worked on an algorithm to find the largest number in a nested array of numbers. For loops (`for (let i = 0; i < array.length; i++) {}`) were absolutely invaluable, and I'm quite glad to be getting extra practice using them in lots of scenarios. 
 I learned the proper syntax to access items in a nested array, as well, by using square brackets to indicate an index nested within multiple arrays: `array[nestedArray][subNestedArray]`.
 
-Solving today's freeCodeCamp.org algorithm problem took a bit of re-writing and googling, but I was glad to realize I was on the right track originally.I've found that daily practice helps both with overall code logic, as well as learning the language at hand!
+Solving today's freeCodeCamp.org algorithm problem took a bit of re-writing and googling, but I was gratified to realize I was on the right track originally, but with incorrect syntax. I've found that daily practice helps both with overall code logic, as well as learning the language at hand!
