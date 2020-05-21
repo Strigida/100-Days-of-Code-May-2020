@@ -137,3 +137,13 @@ Today I worked on an algorithm to find the largest number in a nested array of n
 I learned the proper syntax to access items in a nested array, as well, by using square brackets to indicate an index nested within multiple arrays: `array[nestedArray][subNestedArray]`.
 
 Solving today's freeCodeCamp.org algorithm problem took a bit of re-writing and googling, but I was gratified to realize I was on the right track originally, but with incorrect syntax. I've found that daily practice helps both with overall code logic, as well as learning the language at hand!
+
+---
+## Day 18: Algorithms
+*5/21/2020*
+
+---
+Did an algorithm to find out if the end of a `string` was the same as a given argument (returning `true` or `false`), and one that repeated a `string` a given number of times, unless the number was negative (in which case it returned an empty `string`);
+
+It all went significantly faster, today, so the algorithm work is definitely improving my skills!
+I think I'll start the project I've been considering after I've finished working through the algorithm practice on freeCodeCamp.org.
