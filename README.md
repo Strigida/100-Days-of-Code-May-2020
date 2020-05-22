@@ -147,3 +147,12 @@ Did an algorithm to find out if the end of a `string` was the same as a given ar
 
 It all went significantly faster, today, so the algorithm work is definitely improving my skills!
 I think I'll start the project I've been considering after I've finished working through the algorithm practice on freeCodeCamp.org.
+
+---
+## Day 19: Algorithms
+*5/22/2020*
+
+---
+Similar practice, and seeing improvement in the amount of time it takes me to solve a problem! Also finding it's rather fun!
+
+---
