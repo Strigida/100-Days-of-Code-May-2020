@@ -156,3 +156,10 @@ I think I'll start the project I've been considering after I've finished working
 Similar practice, and seeing improvement in the amount of time it takes me to solve a problem! Also finding it's rather fun!
 
 ---
+## Day 20: Web App
+*5/23/2020*
+
+---
+I decided to do something fun for a couple of days, and make a pseudo fortune telling app with a click button that feeds in a random line. I spent today working on the HTML and .css portions, and will play with the JavaScript tomorrow and the next day! Hurrah!
+
+---
