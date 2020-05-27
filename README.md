@@ -168,3 +168,12 @@ I decided to do something fun for a couple of days, and make a pseudo fortune te
 
 ---
 Decided to re-design and re-work the HTML and .css portions I created yesterday, as making the page a grid-layout will make things much easier in the long run. If I decide to do a mobile version at some point I'll need to tackle that separately. 
+
+---
+## Day 22 and 23: Web App
+*5/25/2020 - 5/26/2020*
+
+---
+Continued work on the HTML and css of the website facing, as well as some art pieces for the app. It's coming along nicely, and I'm designing it based on an illuminated manuscript page! One more day, and I should be able to move on to app functionality. In the mean time, I'm enjoying doing something I'm a bit more familiar with!
+
+---
