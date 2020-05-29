@@ -177,3 +177,10 @@ Decided to re-design and re-work the HTML and .css portions I created yesterday,
 Continued work on the HTML and css of the website facing, as well as some art pieces for the app. It's coming along nicely, and I'm designing it based on an illuminated manuscript page! One more day, and I should be able to move on to app functionality. In the mean time, I'm enjoying doing something I'm a bit more familiar with!
 
 ---
+## Day 24: Web App and Algorithms
+*5/28/2020*
+
+---
+I missed the small challenges in the algorithm section of freeCodeCamp.org, so spent a little time there, today, as well as working on the visual side of the web app I'm working on, at the moment. I'm taking my time on it, as I do enjoy the design side of things :)
+
+---
