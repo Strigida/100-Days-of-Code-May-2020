@@ -184,3 +184,10 @@ Continued work on the HTML and css of the website facing, as well as some art pi
 I missed the small challenges in the algorithm section of freeCodeCamp.org, so spent a little time there, today, as well as working on the visual side of the web app I'm working on, at the moment. I'm taking my time on it, as I do enjoy the design side of things :)
 
 ---
+## Day 25: Algorithms, ect.
+*5/29/2020*
+
+---
+Finished an algorithm I had to leave undone last night, and worked on web app visuals.
+
+---
