@@ -2,35 +2,46 @@
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="styles.css">
+	<!--<script type="text/javascript" src="Index.html"></script>-->
 	<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Tangerine:wght@700&display=swap" rel="stylesheet">
 	<title>The Advisor</title>
 </head>
 <body>
 	<div class="gridContainer">
 		<div class="item-1">
-			Image
+			<img src="bleedingHeart.jpg" alt="bleeding heart sketch" class="smallImage" id="left-align">
 		</div>
 		<div class="item-2">
 			<h1>The Advisor</h1>
 			<p>Click the Button to Get Advice from Famous People.</p>
+			
 		</div>
 		<div class="item-3">
-			Image
+			<img src="daisy.png" alt="daisy sketch" class="smallImage" id="right-align">
 		</div>
 		<div class="item-4">
-			<button>ADVICE</button>
+			<button type="button" id="adviceButton" onclick="changeImageText()">ADVICE</button>
 		</div>
-		<div class="item-5">Image</div>
+		<div class="item-5" id="myImage">Image Here.
+		</div>
 		<div class="item-6">
-			Image
+			<img src="daisy.png" alt="daisy sketch" class="smallImage" id="left-align">
 		</div>
 		<div class="item-7">
 			<p>Your advice will appear, here.</p>
 		</div>
 		<div class="item-8">
-			Image
+			<img src="bleedingHeart.jpg" alt="bleeding heart sketch" class="smallImage" id="right-align">
 		</div>	
 	</div>
+
+	<script type="text/javascript">
+		function changeImageText() {
+			console.log("Got into function.");
+			document.getElementById("myImage").innerHTML = "New Words Appear!";
+			console.log("Finished Function!");
+		}
+	</script>
 
 </body>
 </html>

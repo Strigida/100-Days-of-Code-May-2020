@@ -5,7 +5,7 @@ body {
 h1 {
 	font-family: 'Cinzel Decorative', cursive;
 	text-align: center;
-	font-size: 2rem;
+	font-size: 3rem;
 	color: #986E41;
 	-webkit-text-stroke: 1px #423026;
 	margin: 4% auto auto auto;
@@ -16,7 +16,7 @@ h1 {
 p {
 	font-family: 'Tangerine', cursive;
 	text-align: center;
-	color: #423026;
+	color: #b4586b;
 }
 
 button {
@@ -24,11 +24,11 @@ button {
 	font-size: 1.7rem;
 	margin: 1.3rem;
 	padding: 10px;
-	border: 1px solid #986E41;
+	border: 1px solid #423026;
 	border-radius: 4px 10px;
 	color: #c9a0a8;
-	-webkit-text-stroke: 1px #b4586b;
-	background-color: #423026;
+	
+	background-color: #665f90;
 	box-shadow: 0 2px 4px 0 #423026;
 	transition-duration: .4s;
 
@@ -47,9 +47,12 @@ button:active {
 .gridContainer {
 	display: grid;
 	grid-gap: 5px;
-	border: 1px solid black;
+	border: 1px solid #9db48d;
+	border-radius: 1rem;
 	grid-template-columns: auto auto auto auto;
-	background-color: #986E41;
+	/*
+	background-color: #cec6f5;
+	*/
 	padding: 10px;
 }
 
@@ -63,11 +66,20 @@ button:active {
 .item-1 {
 	grid-column-start: 1;
 	grid-column-end: 2;
+	border-top: 1px solid #9db48d;
+	border-left: 1px solid #9db48d;
+	border-radius: 1rem;
 }
 
 .item-2 {
 	grid-column-start: 2;
 	grid-column-end: 4;
+}
+
+.item-3 {
+	border-top: 1px solid #9db48d;
+	border-right: 1px solid #9db48d;
+	border-radius: 1rem;
 }
 
 .item-4 {
@@ -80,7 +92,34 @@ button:active {
 	grid-column-end: 5;
 }
 
+.item-6 {
+	border-left: 1px solid #9db48d;
+	border-bottom: 1px solid #9db48d;
+	border-radius: 1rem;
+}
+
 .item-7 {
 	grid-column-start: 2;
 	grid-column-end: 4;
+}
+
+.item-8 {
+	border-right: 1px solid #9db48d;
+	border-bottom: 1px solid #9db48d;
+	border-radius: 1rem;
+}
+
+.smallImage {
+	height: 6.6rem;
+	padding: 0px;
+	border: 3px double #9db48d;
+	border-radius: 2rem;
+}
+
+#left-align {
+	float: left;
+}
+
+#right-align {
+	float: right;
 }

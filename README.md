@@ -191,3 +191,14 @@ I missed the small challenges in the algorithm section of freeCodeCamp.org, so s
 Finished an algorithm I had to leave undone last night, and worked on web app visuals.
 
 ---
+## Days 26 - 38: In Support of Black Lives Matter
+*5/30/2020 - 6/10/2020*
+![Black Lives Matter](https://live.staticflickr.com/8653/16014096015_6b1f4377ec_b.jpg "Black Lives Matter Protest Image")
+
+---
+Since the start of the Black Lives Matter (BLM) movement, I've decided to go radio-silent on my coding exploits, as I would prefer to leave air space for those who should be heard. I will re-tweet other's words, but as a white person, my words are not the ones needed, right now. I'll use my white privelege to listen, support, and elevate the voices of the BLM conversation.
+
+On code subjects, though, I'm still working on the advice app. I've finished the visual aspects using HTML5 and CSS, and have moved on to the functionality, using JavaScript. 
+I'm using an internal script, right now, to get things started, and have got the button functional. Tomorrow I'll work on getting it to put the advice I want where I want it! I'm excited!
+
+---
