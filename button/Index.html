@@ -2,7 +2,7 @@
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="styles.css">
-	<!--<script type="text/javascript" src="Index.html"></script>-->
+	<script type="text/javascript" src="index.js"></script>
 	<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Tangerine:wght@700&display=swap" rel="stylesheet">
 	<title>The Advisor</title>
 </head>
@@ -22,7 +22,8 @@
 		<div class="item-4">
 			<button type="button" id="adviceButton" onclick="changeImageText()">ADVICE</button>
 		</div>
-		<div class="item-5" id="myImage">Image Here.
+		<div class="item-5" id="myImage">
+			<img id="adviceImage" src="https://i0.pickpik.com/photos/908/101/183/eye-iris-algae-macro-preview.jpg" alt="eye">
 		</div>
 		<div class="item-6">
 			<img src="daisy.png" alt="daisy sketch" class="smallImage" id="left-align">
@@ -35,13 +36,13 @@
 		</div>	
 	</div>
 
-	<script type="text/javascript">
+	<!--<script type="text/javascript">
 		function changeImageText() {
 			console.log("Got into function.");
 			document.getElementById("myImage").innerHTML = "New Words Appear!";
 			console.log("Finished Function!");
 		}
-	</script>
+	</script>-->
 
 </body>
 </html>

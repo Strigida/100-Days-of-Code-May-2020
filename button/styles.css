@@ -74,6 +74,8 @@ button:active {
 .item-2 {
 	grid-column-start: 2;
 	grid-column-end: 4;
+	border-bottom: 1px solid #9db48d;
+	border-radius: 1rem;
 }
 
 .item-3 {
@@ -122,4 +124,10 @@ button:active {
 
 #right-align {
 	float: right;
+}
+
+#adviceImage {
+	height: 150px;
+	border: 3px double #9db48d;
+	border-radius: 2rem; 
 }

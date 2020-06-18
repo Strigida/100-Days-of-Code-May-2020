@@ -202,3 +202,16 @@ On code subjects, though, I'm still working on the advice app. I've finished the
 I'm using an internal script, right now, to get things started, and have got the button functional. Tomorrow I'll work on getting it to put the advice I want where I want it! I'm excited!
 
 ---
+## Day 39: After This Break
+*6/18/2020*
+
+---
+After taking some time to process what's going on in the world, and in my own life, I'm back to working on the advice app!
+
+Today I got the button function into an external script, and made it change images back and forth using: `document.getElementByID('id').src="sourcefile"`, and am very pleased with functionality, so far! I made some minor style changes while I was at it.
+
+Tomorrow, I'll add text changing functionality to the button `onclick`, as well, in the advice text location.
+
+After that, I want to look into using APIs to bring images and text in from external sources, which is a little scary and exciting, as I haven't played with them before!
+
+---
