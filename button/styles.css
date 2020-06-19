@@ -1,5 +1,8 @@
 body {
-	background-color: #f6e6c5;
+	background: url("papier-parchemin-1.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: #665f90;
 }
 
 h1 {
@@ -16,7 +19,7 @@ h1 {
 p {
 	font-family: 'Tangerine', cursive;
 	text-align: center;
-	color: #b4586b;
+	color: #423026;
 }
 
 button {
@@ -26,8 +29,7 @@ button {
 	padding: 10px;
 	border: 1px solid #423026;
 	border-radius: 4px 10px;
-	color: #c9a0a8;
-	
+	color: #f6e6c5;
 	background-color: #665f90;
 	box-shadow: 0 2px 4px 0 #423026;
 	transition-duration: .4s;
@@ -47,9 +49,10 @@ button:active {
 .gridContainer {
 	display: grid;
 	grid-gap: 5px;
-	border: 1px solid #9db48d;
+	border: 1px solid #665f90;
 	border-radius: 1rem;
 	grid-template-columns: auto auto auto auto;
+	margin: 12%;
 	/*
 	background-color: #cec6f5;
 	*/
@@ -57,7 +60,7 @@ button:active {
 }
 
 .gridContainer > div {
-	background-color: #F6E6C5;
+	/*background-color: #F6E6C5;*/
 	padding: 10px;
 	font-size: 1.7rem;
 	text-align: center;
@@ -66,21 +69,21 @@ button:active {
 .item-1 {
 	grid-column-start: 1;
 	grid-column-end: 2;
-	border-top: 1px solid #9db48d;
-	border-left: 1px solid #9db48d;
+	border-top: 1px solid #665f90;
+	border-left: 1px solid #665f90;
 	border-radius: 1rem;
 }
 
 .item-2 {
 	grid-column-start: 2;
 	grid-column-end: 4;
-	border-bottom: 1px solid #9db48d;
+	border-bottom: 1px solid #665f90;
 	border-radius: 1rem;
 }
 
 .item-3 {
-	border-top: 1px solid #9db48d;
-	border-right: 1px solid #9db48d;
+	border-top: 1px solid #665f90;
+	border-right: 1px solid #665f90;
 	border-radius: 1rem;
 }
 
@@ -95,8 +98,8 @@ button:active {
 }
 
 .item-6 {
-	border-left: 1px solid #9db48d;
-	border-bottom: 1px solid #9db48d;
+	border-left: 1px solid #665f90;
+	border-bottom: 1px solid #665f90;
 	border-radius: 1rem;
 }
 
@@ -106,15 +109,15 @@ button:active {
 }
 
 .item-8 {
-	border-right: 1px solid #9db48d;
-	border-bottom: 1px solid #9db48d;
+	border-right: 1px solid #665f90;
+	border-bottom: 1px solid #665f90;
 	border-radius: 1rem;
 }
 
 .smallImage {
 	height: 6.6rem;
 	padding: 0px;
-	border: 3px double #9db48d;
+	border: 3px double #665f90;
 	border-radius: 2rem;
 }
 
@@ -126,8 +129,13 @@ button:active {
 	float: right;
 }
 
+#adviceButton {
+	margin-top: 3rem;
+}
+
 #adviceImage {
 	height: 150px;
-	border: 3px double #9db48d;
-	border-radius: 2rem; 
+	border: 3px double #665f90;
+	border-radius: 2rem;
+	margin-top: 3rem;
 }
