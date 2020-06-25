@@ -215,3 +215,14 @@ Tomorrow, I'll add text changing functionality to the button `onclick`, as well,
 After that, I want to look into using APIs to bring images and text in from external sources, which is a little scary and exciting, as I haven't played with them before!
 
 ---
+## Day 40 - 46: Advice App Finished!
+*6/19/2020 - 6/25/2020*
+
+---
+I finished up my web app, "The Advisor", and put it up on my website. Here's the link: http://www.lizaltmiller.com
+
+I added in a navigator and styles matching the rest of my portfolio page, adjusted the styles of the page itself further (clean flat colors, easy-to-read yet decorative fonts, apropriate imagery), and uploaded it. It's live, and I'm pleased!
+
+Now, on to the next project!
+
+---

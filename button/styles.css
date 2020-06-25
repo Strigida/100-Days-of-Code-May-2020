@@ -1,25 +1,26 @@
 body {
-	background: url("papier-parchemin-1.png");
-	background-repeat: no-repeat;
-	background-size: 100%;
 	background-color: #665f90;
 }
 
 h1 {
 	font-family: 'Cinzel Decorative', cursive;
 	text-align: center;
-	font-size: 3rem;
 	color: #986E41;
 	-webkit-text-stroke: 1px #423026;
 	margin: 4% auto auto auto;
 	padding: 20px;
-	width: 30%;
+	width: 50%;
 }
 
 p {
-	font-family: 'Tangerine', cursive;
+	font-family: 'Julius Sans One', sans-serif;
 	text-align: center;
 	color: #423026;
+}
+
+p::first-letter {
+    font-size: 2rem;
+    color: #423026;
 }
 
 button {
@@ -53,9 +54,7 @@ button:active {
 	border-radius: 1rem;
 	grid-template-columns: auto auto auto auto;
 	margin: 12%;
-	/*
-	background-color: #cec6f5;
-	*/
+	background-image: linear-gradient(#cec6f5, #f6f1e8);
 	padding: 10px;
 }
 
@@ -106,6 +105,8 @@ button:active {
 .item-7 {
 	grid-column-start: 2;
 	grid-column-end: 4;
+	border-bottom: 1px solid #665f90;
+	border-radius: 1rem;
 }
 
 .item-8 {
@@ -123,6 +124,8 @@ button:active {
 
 #left-align {
 	float: left;
+	-webkit-transform: scaleX(-1);
+  	transform: scaleX(-1);
 }
 
 #right-align {
